@@ -1,0 +1,1 @@
+This is a generalized point of sale system that i have made using Java this is my first project.
